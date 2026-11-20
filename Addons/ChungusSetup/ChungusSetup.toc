@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Chungus Setup
+## Notes: Per-addon profile actions (slash commands, native APIs, savedvar snapshots) for Chungus profiles.
+## Author: You
+## Version: 1.0.0
+## Dependencies: Chungus
+
+ChungusSetup.lua

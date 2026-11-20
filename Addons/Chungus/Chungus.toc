@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Chungus
+## Notes: Profile manager platform and shared core for Chungus* modules. /chungus to open.
+## Author: You
+## Version: 2.0.0
+## SavedVariables: ChungusDB
+## SavedVariablesPerCharacter: ChungusCharDB
+
+Chungus.lua
+ChungusWindow.lua
+ChungusProfiles.lua
+ChungusMinimap.lua

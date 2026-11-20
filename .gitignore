@@ -1,0 +1,15 @@
+# Only the mod itself is versioned.
+/*
+!/.gitignore
+!/rotate.sh
+!/Addons/
+
+# Editor / OS junk (also applies inside Addons/)
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~

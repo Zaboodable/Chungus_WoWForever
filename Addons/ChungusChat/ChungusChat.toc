@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Chungus Chat
+## Notes: Placeholder module for Chungus (chat features to come).
+## Author: You
+## Version: 0.1.0
+## Dependencies: Chungus
+
+ChungusChat.lua
