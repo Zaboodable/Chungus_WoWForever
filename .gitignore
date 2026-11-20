@@ -1,7 +1,6 @@
 # Only the mod itself is versioned.
 /*
 !/.gitignore
-!/rotate.sh
 !/Addons/
 
 # Editor / OS junk (also applies inside Addons/)
